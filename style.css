@@ -117,6 +117,10 @@ form button:hover {
 }
 
 /* modal */
+.modal-wrapper.open {
+    opacity: 1;
+    visibility: visible;
+}
 
 .modal-wrapper {
     position: absolute;
